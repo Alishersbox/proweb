@@ -1,0 +1,98 @@
+.bodyIndex {
+  background-color: antiquewhite;
+}
+
+.bodyPage {
+  background-color: chartreuse;
+}
+
+.h1 {
+  display: flex;
+  justify-content: center;
+  background-color: green;
+  color: yellow;
+}
+.h2 {
+  display: flex;
+  justify-content: center;
+  background-color: green;
+  color: white;
+}
+.h3 {
+  display: flex;
+  justify-content: center;
+  background-color: green;
+  color: white;
+}
+.li {
+  display: flex;
+  justify-content: center;
+}
+.p-border {
+  display: flex;
+  width: 800px;
+  border-style: solid;
+  border-color: black;
+  text-wrap: wrap;
+  text-align: center;
+  padding: 10px;
+  font-family: Arial;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: aqua;
+  margin: 0 auto;
+}
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.address {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.block {
+  text-align: center;
+}
+.box {
+  display: flex;
+  border-style: solid;
+  border-color: black;
+  list-style: none;
+  text-decoration: none;
+  flex-wrap: wrap-reverse;
+}
+.div-bmw-five {
+  display: flex;
+  width: 800px;
+  height: 800px;
+  border-style: solid;
+  border-color: black;
+  flex-wrap: wrap;
+  font-family: Arial;
+  justify-content: space-between;
+  align-content: space-evenly;
+  border-radius: 10px;
+  background-color: violet;
+  margin: 0 auto;
+}
+.p-bmw-inner {
+  width: 250px;
+  height: 250px;
+  border: 1px solid red;
+  border-radius: 20px;
+  background-image: url("BMWi8.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: orange;
+  font-weight: 800;
+}
